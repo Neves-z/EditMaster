@@ -11,7 +11,7 @@
 By combining semantic understanding and visual fidelity, EditMaster enables flexible, fine-grained, and context-aware image editing — going beyond the limitations of unimodal methods.
 
 <p align="center">
-  <img src="assets/teaser.png" width="700">
+  <img src="Assets/pipeline.pdf" width="700">
 </p>
 
 ---
